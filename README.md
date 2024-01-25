@@ -14,3 +14,19 @@ This repository contains the official implementation of the following paper:
 ![system](https://github.com/RyuZhihao123/ISMAR_Building/blob/main/Figures/0.png)
 
 ![result](https://github.com/RyuZhihao123/ISMAR_Building/blob/main/Figures/2.png)
+
+
+### Requirement:
+**Hardware:**
+
+$\bullet$ Leap Motion (for mid-air sketching).
+
+$\bullet$ HTC Vive Helmet (for VR observation).
+
+**Software:**
+
+$\bullet$ Unity 2021+
+
+$\bullet$ Visual Studio 2019+
+
+$\bullet$ Python 3.6+

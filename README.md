@@ -16,7 +16,11 @@ This repository contains the official implementation of the following paper:
 ![result](https://github.com/RyuZhihao123/ISMAR_Building/blob/main/Figures/2.png)
 
 
+
 ### Requirement:
+
+Since this is a VR system, you need to first purchase the necessary VR hardwares before configuring our project.
+
 **Hardware:**
 
 $\bullet$ Leap Motion (for mid-air sketching).
@@ -30,3 +34,5 @@ $\bullet$ Unity 2021+
 $\bullet$ Visual Studio 2019+
 
 $\bullet$ Python 3.6+
+
+

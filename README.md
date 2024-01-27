@@ -11,9 +11,6 @@ This repository contains the official implementation of the following paper:
  
 [[Papar]](https://ryuzhihao123.github.io/data/ismar21_building.pdf) [[IEEE ver.]](https://ieeexplore.ieee.org/document/9583810)
 
-![system](https://github.com/RyuZhihao123/ISMAR_Building/blob/main/Figures/0.png)
-
-![result](https://github.com/RyuZhihao123/ISMAR_Building/blob/main/Figures/2.png)
 
 
 
@@ -29,10 +26,13 @@ $\bullet$ HTC Vive Helmet (for VR observation).
 
 **Software:**
 
-$\bullet$ Unity 2021+
+$\bullet$ Unity 2021+ (C#)
 
 $\bullet$ Visual Studio 2019+
 
 $\bullet$ Python 3.6+
 
+![system](https://github.com/RyuZhihao123/ISMAR_Building/blob/main/Figures/0.png)
+
+![result](https://github.com/RyuZhihao123/ISMAR_Building/blob/main/Figures/2.png)
 

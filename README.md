@@ -5,7 +5,7 @@ This repository contains the official implementation of the following paper:
  > **[Titile] BuildingSketch: Freehand Mid-Air Sketching for Building Modeling.**
  >
  > **[Authors]** Zhihao Liu#, Fanxing Zhang#, Zhanglin Cheng.
-  (#: Joint first authors who contribute equally)
+  (#: Joint first authors who contributed equally)
  >
  > IEEE International Symposium on Mixed and Augmented Reality (**IEEE ISMAR**). 2021.
  
